@@ -1,0 +1,4 @@
+{
+  "testRepo": "length-in-bytes-solution",
+  "pathToFile": "cypress/integration/tests/test.spec.js"
+}
